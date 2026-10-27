@@ -1,0 +1,2 @@
+# genAi
+Creating ip address
